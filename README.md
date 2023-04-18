@@ -1,2 +1,3 @@
-# PreEntrega2-CabaNavarro
-Segunda pre-entrega coderhouse curso JavaScript
+PreEntrega2-CabaNavarro
+
+Pre Entrega N° 2 JavaScript, CoderHouse
